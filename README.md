@@ -67,3 +67,7 @@ To run this application locally, follow these steps:
 ├── requirements.txt # Dependencies required to run the application
 
 └── README.md # Project documentation
+
+### License
+
+  This project is licensed under the MIT License.
