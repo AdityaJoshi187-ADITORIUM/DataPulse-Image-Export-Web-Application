@@ -60,6 +60,10 @@ To run this application locally, follow these steps:
 
 ## 📂 File Structure
 ├── app.py # Main application file
+
+
 ├── helper.py # Helper functions for data processing and visualization
+
 ├── requirements.txt # Dependencies required to run the application
+
 └── README.md # Project documentation
